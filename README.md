@@ -11,6 +11,6 @@ I wrote a program that can perform face detection and human skeleton extraction 
 In addition to the passenger detection with tracking and skeleton extraction code, it also includes the associated code such as escalator passenger face classifier training, passenger detection and tracking, skeleton extraction, 
 skeleton template making and abnormal behavior detection and recognition based on skeleton sequences.
 
-<br>![image]()
+<br>![image](https://github.com/deepthinking-qichao/A-program-that-simultaneously-implements-face-detection-and-human-skeleton-extraction/blob/master/Result_image/1.jpg)
 
 # ***Hope this help you***
